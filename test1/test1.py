@@ -9,6 +9,6 @@ print ("After Add 3 Service")
 print("after Add 4 services")
 print ("Finally")
 print ("Hello")
-for i in range(20):
+for i in range(20)
     print("Hello")
     time.sleep(15)
