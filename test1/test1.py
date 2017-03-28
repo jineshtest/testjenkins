@@ -11,4 +11,4 @@ print ("Finally")
 print ("Hello")
 for i in range(20):
     print("Hello")
-    time.sleep(15)
+    time.sleep(30)
